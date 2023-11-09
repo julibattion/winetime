@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 1200" style="enable-background:new 0 0 1200 1200;" xml:space="preserve">
+<g id="Background">
+	<rect style="fill:#E0D4D1;" width="1200" height="1200"/>
+</g>
+<g id="Graphic_Elements">
+	<g>
+		<g>
+			<g>
+				<path style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+					M696.336,540.472c0,0,161.505,232.107-86.136,234.26c-247.642-2.154-86.136-234.26-86.136-234.26"/>
+				
+					<ellipse style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="610.2" cy="540.472" rx="86.136" ry="15.989"/>
+			</g>
+			<g>
+				
+					<line style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" x1="610.2" y1="774.732" x2="610.2" y2="878.814"/>
+				
+					<ellipse style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" cx="610.2" cy="878.814" rx="104.74" ry="22.992"/>
+			</g>
+		</g>
+		<path style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+			M666.344,623.799"/>
+		<path style="fill:none;stroke:#030202;stroke-width:6.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
+			M818.01,619.397c0,0-47.744-19.72-116.899-5.471c-23.426,4.827-49.308,13.551-76.624,28.259
+			c-134.944,72.662-223.749-14.053-223.749-14.053"/>
+	</g>
+</g>
+<g id="Text">
+	<g>
+		<g>
+			<g>
+				<path id="SVGID_x5F_1_x5F_" style="fill:none;" d="M914.683,685.238c0,168.161-136.322,304.483-304.483,304.483
+					S305.716,853.4,305.716,685.238S442.038,380.755,610.2,380.755S914.683,517.077,914.683,685.238z"/>
+				<text>				<textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="49.644%">
+<tspan  style="fill:#030202; font-family:'CormorantGaramond-Bold'; font-size:208px; letter-spacing:20;">wine</tspan><tspan  style="fill:#030202; font-family:'CormorantGaramond-Bold'; font-size:208px; letter-spacing:60;"> time</tspan>				</textPath>
+</text>
+			</g>
+			
+				<text transform="matrix(1 0 0 1 205.0117 701.3289)" style="fill:#030202; font-family:'Cardo-Regular'; font-size:50px; letter-spacing:5;">since</text>
+			
+				<text transform="matrix(1 0 0 1 880.9204 701.3279)" style="fill:#030202; font-family:'Cardo-Regular'; font-size:50px; letter-spacing:5;">1966</text>
+		</g>
+		<circle style="fill:#030202;" cx="600" cy="337.666" r="12.953"/>
+	</g>
+</g>
+</svg>
